@@ -1,4 +1,4 @@
-package com.java.day1;
+package com.java.chapter5;
 
 /**
  * Created by weijie on 17-5-9.
@@ -20,7 +20,7 @@ public class SimpleConstructor {
             new Rock();
         }
 
-        System.out.println("===============");
+        System.out.println("");
 
         for (int i = 0; i < 8; i++) {
             new Rock2(i);

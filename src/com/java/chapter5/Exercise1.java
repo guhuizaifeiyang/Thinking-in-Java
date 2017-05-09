@@ -1,4 +1,4 @@
-package com.java.day1;
+package com.java.chapter5;
 
 /**
  * Created by weijie on 17-4-21.
