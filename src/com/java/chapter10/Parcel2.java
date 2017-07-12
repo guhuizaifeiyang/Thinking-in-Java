@@ -3,10 +3,6 @@ package com.java.chapter10;
 /**
  * Created by weijie on 17-7-12.
  */
-class OuterClass {
-    Parcel2.Contents c = new Parcel2().new Contents();
-    Parcel2.Destination d = new Parcel2().new Destination();
-}
 public class Parcel2 {
     class Contents {
         private int i = 11;
